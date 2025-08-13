@@ -11,11 +11,29 @@ Works on **Windows**, **Linux**, and **macOS** (with native curses).
 - End game screen
 
 ---
+## Instructions
+
+| Key  | Action           |
+|------|------------------|
+| **W** | Rotate piece     |
+| **A** | Move left        |
+| **S** | Move down faster |
+| **D** | Move right       |
+| **Q** | Quit game        |
+
+## Scoring
+
+| Event                          | Points / Effect                                      |
+|--------------------------------|------------------------------------------------------|
+| Tetromino placed               | +1 point                                             |
+| Line cleared                   | +10 points                                           |
+| Every 2 lines cleared         | Speed increases (up to a limit)                      |
+| Pieces reach the top of board  | Game over                                            |
+
 
 ## Installation
 
 ### Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-tetris-console.git
-cd python-tetris-console
-# Terminal-Tetris
+git clone https://github.com/placeholder2/Terminal-Tetris.git
+cd Terminal-Tetris
