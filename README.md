@@ -1,4 +1,4 @@
-# Python Console Tetris 🎮
+# Python Console Tetris 
 
 A simple Tetris game for the console using Python's `curses` library.  
 Works on **Windows**, **Linux**, and **macOS** (with native curses).
@@ -14,7 +14,7 @@ Works on **Windows**, **Linux**, and **macOS** (with native curses).
 
 ## Installation
 
-### 1️⃣ Clone the repo
+### Clone the repo
 ```bash
 git clone https://github.com/YOUR_USERNAME/python-tetris-console.git
 cd python-tetris-console
