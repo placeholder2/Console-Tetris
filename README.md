@@ -35,5 +35,5 @@ Works on **Windows**, **Linux**, and **macOS** (with native curses).
 
 ### Clone the repo
 ```bash
-git clone https://github.com/placeholder2/Terminal-Tetris.git
-cd Terminal-Tetris
+git clone https://github.com/placeholder2/Console-Tetris.git
+cd Console-Tetris
