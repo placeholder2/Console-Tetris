@@ -33,7 +33,7 @@ Works on **Windows**, **Linux**, and **macOS** (with native curses).
 
 ## Installation
 
-### Clone the repo
-```bash
-git clone https://github.com/placeholder2/Console-Tetris.git
-cd Console-Tetris
+1. Go to the **[Releases](https://github.com/placeholder2/Console-Tetris/releases)** page.  
+2. Download the latest `.zip` file for your system.  
+3. Extract the files to any folder.  
+4. Run `tetris.exe` to start playing.
